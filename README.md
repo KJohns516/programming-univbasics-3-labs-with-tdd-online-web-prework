@@ -29,8 +29,6 @@ the toughest labs ahead. In this lesson, we're going to walk through reading
 tests while also getting a little more practice with variables.
 
 ## Building a Simple Calculator
-./calculator.rb
-  contains a local variable called first_number that is assigned to a number (FAILED - 1)
 ## Test Driven Behaviors
 
 When we want to run an experiment, we need to develop a hypothesis and we need
