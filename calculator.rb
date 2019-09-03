@@ -1,5 +1,5 @@
 
-puts "enter a number"
+puts "enter a numbe:"
 num1 = gets.chomp()
 puts "enter another numer"
 num2 = gets.chomp()
